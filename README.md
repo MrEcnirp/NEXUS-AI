@@ -1,4 +1,4 @@
-# NEXUS-AI 
+# MR ECNIRP AI
 
 <!-- Glowing Header -->
 
@@ -71,7 +71,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 ## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
 
 
- <a href="https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
+ <a href="https://whatsapp.com/channel/0029VbB89vv7DAWumCuzfB3d"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
  
 
@@ -83,7 +83,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+NEXUS+AI+Edition+by+Pkdriller👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+MR ECNIRP+AI+Edition+by+PRESEC'FINEST👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
 </h3>
 
 <p align="center">
